@@ -17,6 +17,6 @@ In part three, I created two more polyglots and used two from Truepolyglot. They
 | Polyglot Filename | Components of the polyglot | types | Creator |
 | --- | --- | --- | --- |
 | [GoogleHiringMethods.pdf.zip](/googleHiringMethods.pdf) | [GoogleHiringMethods.pdf , pwn.zip](/googleHiringMethods%20Components) | PDF / ZIP | Myself |
-| Logo.zip.exe | Logo.zip, pwn.exe | ZIP / EXE | Myself |
-| Doc.pdf.html | doc.pdf, page.html | PDF / HTML | Truepolyglot |
-| eciar.exe.pdf | ecair.exe (retracted for virus reasons), hexinator.pdf | EXE / PDF | Truepolyglot |
+| [Logo.zip.exe](logo.zip) | [Logo.zip, pwn.exe](/logo%20Components/) | ZIP / EXE | Myself |
+| [Doc.pdf.html](/doc.pdf) | [doc.pdf, page.html](/doc%20components) | PDF / HTML | Truepolyglot |
+| [eciar.exe.pdf](/eciar.pdf) | [ecair.exe (retracted for virus reasons), hexinator.pdf](/eciar%20Components) | EXE / PDF | Truepolyglot |
