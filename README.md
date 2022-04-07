@@ -20,3 +20,5 @@ In part three, I created two more polyglots and used two from Truepolyglot. They
 | [Logo.zip.exe](logo.zip) | [Logo.zip, pwn.exe](/logo%20Components/) | ZIP / EXE | Myself |
 | [Doc.pdf.html](/doc.pdf) | [doc.pdf, page.html](/doc%20components) | PDF / HTML | Truepolyglot |
 | [eciar.exe.pdf](/eciar.pdf) | [ecair.exe (retracted for virus reasons), hexinator.pdf](/eciar%20Components) | EXE / PDF | Truepolyglot |
+
+I have also created a very simple program that is the executable for logo.zip, [pwn.c](/pwnc.)
