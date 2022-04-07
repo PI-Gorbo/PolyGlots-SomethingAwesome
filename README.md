@@ -4,7 +4,19 @@ Overview of the files in this repo by part:
 
 # Part One
 
+In part one, the I created a single polyglot linked below.
+
 | Filename | Filetypes |
 | --- | --- |
 | [pdf_zip.pdf](/pdf_zip.pdf) | zip/pdf |
 
+# Part Three
+
+In part three, I created two more polyglots and used two from Truepolyglot. They are summarised below.
+
+| Polyglot Filename | Components of the polyglot | types | Creator |
+| --- | --- | --- | --- |
+| [GoogleHiringMethods.pdf.zip](/googleHiringMethods.pdf) | [GoogleHiringMethods.pdf](/googleHiringMethods%20Components) , pwn.zip | PDF / ZIP | Myself |
+| Logo.zip.exe | Logo.zip, pwn.exe | ZIP / EXE | Myself |
+| Doc.pdf.html | doc.pdf, page.html | PDF / HTML | Truepolyglot |
+| eciar.exe.pdf | ecair.exe (retracted for virus reasons), hexinator.pdf | EXE / PDF | Truepolyglot |
