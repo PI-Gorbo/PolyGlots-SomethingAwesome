@@ -5,5 +5,6 @@ Overview of the files in this repo by part:
 # Part One
 
 | Filename | Filetypes |
+| --- | --- |
 | pdf_zip.pdf | zip/pdf |
 
