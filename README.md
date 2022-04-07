@@ -6,5 +6,5 @@ Overview of the files in this repo by part:
 
 | Filename | Filetypes |
 | --- | --- |
-| pdf_zip.pdf | zip/pdf |
+| [pdf_zip.pdf](/pdf_zip.pdf) | zip/pdf |
 
